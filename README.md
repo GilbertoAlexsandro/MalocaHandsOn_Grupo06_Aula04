@@ -17,7 +17,7 @@ Foi utilizado o *Wokwi* para simulação e validação do circuito, além de tes
 ## Esquema de Conexão  
 O circuito integra o sensor PIR, o sensor HC-SR04 e um botão. O diagrama esquemático foi desenvolvido na *plataforma Wokwi*.  
 
-![Esquema de Conexão](Esquema%20de%20Conex%C3%A3o.png)  
+![Esquema de Conexão](Circuito.png)  
 
 🔗 *Acesse a simulação completa no Wokwi aqui:*  
 [Simulação no Wokwi]([https://wokwi.com/projects/415991525061507073](https://wokwi.com/projects/416627021552970753))
@@ -30,7 +30,7 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
 - Verificação da proximidade com o sensor HC-SR04, a uma distância *d* configurável.  
 - Exibição de mensagens no monitor serial com base nas condições detectadas.  
 
-![Big Picture](Big%20Picture.jpg)
+![Big Picture](BigPicture.jpg)
 
 ---
 
@@ -59,7 +59,4 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
 - *Big Picture.jpg*: Representação visual dos objetivos do projeto.  
 - *codigo_sensores_integrados.ino*: Código-fonte da integração dos sensores com a lógica implementada.  
 
----  
 
-⚙️ *Projeto focado em inovação e integração de sensores para sistemas monitorados.*  
-🎉 *Equipe 06 agradece por acompanhar este trabalho!*
