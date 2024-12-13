@@ -20,7 +20,7 @@ O circuito integra o sensor PIR, o sensor HC-SR04 e um botão. O diagrama esquem
 ![Esquema de Conexão](Circuito.png)  
 
 🔗 *Acesse a simulação completa no Wokwi aqui:*  
-[Simulação no Wokwi]([https://wokwi.com/projects/415991525061507073](https://wokwi.com/projects/416627021552970753))
+[Simulação no Wokwi]([https://wokwi.com/projects/415991525061507073]([https://wokwi.com/projects/416627021552970753](https://wokwi.com/projects/416627021552970753)))
 
 ---
 
@@ -44,7 +44,7 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
     - "Nada próximo ao dispenser" se a distância for maior que *d*.  
 
 🔗 O código está disponível no arquivo:  
-*codigo_sensores_integrados.ino*
+*Código.ino*
 
 ---
 
@@ -55,8 +55,8 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
 ---
 
 ## Estrutura do Repositório  
-- *Esquema de Conexão.png*: Imagem do diagrama esquemático.  
-- *Big Picture.jpg*: Representação visual dos objetivos do projeto.  
-- *codigo_sensores_integrados.ino*: Código-fonte da integração dos sensores com a lógica implementada.  
+Circuito.png*: Imagem do diagrama esquemático.  
+- *BigPicture.jpg*: Representação visual dos objetivos do projeto.  
+- *Código.ino*: Código-fonte da integração dos sensores com a lógica implementada.  
 
 
