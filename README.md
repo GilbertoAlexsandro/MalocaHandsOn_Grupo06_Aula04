@@ -2,4 +2,4 @@
 
 ![circuito](Circuito.png)
 
-![bigpicture](Big Picture.jpg)
+![bigpicture](BigPicture.jpg)
