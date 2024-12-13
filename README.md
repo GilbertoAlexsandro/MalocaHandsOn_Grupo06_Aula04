@@ -20,7 +20,7 @@ O circuito integra o sensor PIR, o sensor HC-SR04 e um botão. O diagrama esquem
 ![Esquema de Conexão](Circuito.png)  
 
 🔗 *Acesse a simulação completa no Wokwi aqui:*  
-[Simulação no Wokwi]([https://wokwi.com/projects/416627021552970753](https://wokwi.com/projects/416627021552970753))
+[Simulação no Wokwi](https://wokwi.com/projects/416627021552970753)
 
 ---
 
